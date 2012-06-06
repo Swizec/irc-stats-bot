@@ -1,0 +1,18 @@
+{
+  "author": "Swizec Teller <swizec@swizec.com> (http://swizec.com)",
+  "name": "irc-stats-bot",
+  "description": "A bot that pushes stats about an irc channel to Graphite",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Swizec/irc-stats-bot.git"
+  },
+  "dependencies": {
+    "irc": ""
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
